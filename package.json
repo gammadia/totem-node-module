@@ -1,0 +1,15 @@
+{
+  "name":         "Tipi Node Module",
+  "homepage":     "http://tipi.gammadia.ch/",
+  "version":      "0.0.1",
+  "repository": {
+    "type":         "git",
+    "url":          "ssh://git@stash.gammadia.ch:7999/tipi/nodemodule.git"
+  },
+  "engines": {
+    "node":         ">=0.10.0"
+  },
+  "dependencies": {
+  },
+  "private": true
+}
