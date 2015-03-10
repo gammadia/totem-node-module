@@ -1,7 +1,7 @@
 {
   "name":         "tipi-node-module",
   "homepage":     "http://tipi.gammadia.ch/",
-  "version":      "1.0.1",
+  "version":      "1.0.2",
   "main":         "lib/tipi.js",
   "repository": {
     "type":         "git",
