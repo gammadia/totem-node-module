@@ -1,15 +1,18 @@
 {
-  "name":         "Tipi Node Module",
+  "name":         "tipi-node-module",
   "homepage":     "http://tipi.gammadia.ch/",
-  "version":      "0.0.1",
+  "version":      "1.0.1",
+  "main":         "lib/tipi.js",
   "repository": {
     "type":         "git",
     "url":          "ssh://git@stash.gammadia.ch:7999/tipi/nodemodule.git"
+  },
+  "publishConfig": {
+    "registry":     "http://npm:uOe5y3Vw1q2n6n43XD41734P854Ow5@npm.gammadia.ch:5984/registry/_design/app/_rewrite/"
   },
   "engines": {
     "node":         ">=0.10.0"
   },
   "dependencies": {
-  },
-  "private": true
+  }
 }
