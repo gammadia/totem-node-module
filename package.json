@@ -1,7 +1,8 @@
 {
-  "name":         "TipiNodeModule",
+  "name":         "tipi-node-module",
   "homepage":     "http://tipi.gammadia.ch/",
-  "version":      "1.0.0",
+  "version":      "1.0.1",
+  "main":         "lib/tipi.js",
   "repository": {
     "type":         "git",
     "url":          "ssh://git@stash.gammadia.ch:7999/tipi/nodemodule.git"
@@ -13,6 +14,5 @@
     "node":         ">=0.10.0"
   },
   "dependencies": {
-  },
-  "private": true
+  }
 }
